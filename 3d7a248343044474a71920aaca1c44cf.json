@@ -1,0 +1,287 @@
+[
+  {
+    "studieOnderdeel":"Sorting and Searching pract.",
+    "datum":"18-3-2016",
+    "cijfer":"Vold."
+  },
+  {
+    "studieOnderdeel":"Sorting and Searching theory",
+    "datum":"18-3-2016",
+    "cijfer":"7,8"
+  },
+  {
+    "studieOnderdeel":"PEWA product",
+    "datum":"29-1-2016",
+    "cijfer":"7,5"
+  },
+  {
+    "studieOnderdeel":"PEWA process",
+    "datum":"29-1-2016",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"PEWA methoden en technieken",
+    "datum":"29-1-2016",
+    "cijfer":"5,5"
+  },
+  {
+    "studieOnderdeel":"PEWA fluency",
+    "datum":"29-1-2016",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"Sorting and Searching theory",
+    "datum":"29-1-2016",
+    "cijfer":"5"
+  },
+  {
+    "studieOnderdeel":"Testing theory",
+    "datum":"29-1-2016",
+    "cijfer":"6,2"
+  },
+  {
+    "studieOnderdeel":"Datastructures op",
+    "datum":"22-1-2016",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"Peer-assessment tm",
+    "datum":"18-1-2016",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"PSP Time Management op",
+    "datum":"18-1-2016",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"Datastructures practical",
+    "datum":"6-11-2015",
+    "cijfer":"onvold."
+  },
+  {
+    "studieOnderdeel":"PEWA WEB theory",
+    "datum":"6-11-2015",
+    "cijfer":"8"
+  },
+  {
+    "studieOnderdeel":"Job Orientation presentie",
+    "datum":"6-11-2015",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"OOAD practical",
+    "datum":"6-11-2015",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"OOAD theory",
+    "datum":"6-11-2015",
+    "cijfer":"7,1"
+  },
+  {
+    "studieOnderdeel":"Datastructures theory",
+    "datum":"6-11-2015",
+    "cijfer":"6,8"
+  },
+  {
+    "studieOnderdeel":"Communication Skills mondeling",
+    "datum":"6-7-2015",
+    "cijfer":"8"
+  },
+  {
+    "studieOnderdeel":"User Interaction tentamen",
+    "datum":"1-7-2015",
+    "cijfer":"8"
+  },
+  {
+    "studieOnderdeel":"PAD: Product",
+    "datum":"26-6-2015",
+    "cijfer":"7,5"
+  },
+  {
+    "studieOnderdeel":"PAD: Proces mondeling",
+    "datum":"26-6-2015",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"PAD: Methoden en technieken tm",
+    "datum":"26-6-2015",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"Essential Skills Nederlands td",
+    "datum":"24-6-2015",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"Databases 2 opdrachten",
+    "datum":"19-6-2015",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"Databases 2 tentamen",
+    "datum":"19-6-2015",
+    "cijfer":"6,3"
+  },
+  {
+    "studieOnderdeel":"User Interaction tentamen",
+    "datum":"17-6-2015",
+    "cijfer":"5"
+  },
+  {
+    "studieOnderdeel":"User Interaction practicum",
+    "datum":"17-6-2015",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"Object Oriented Programming 2o",
+    "datum":"29-5-2015",
+    "cijfer":"onvold."
+  },
+  {
+    "studieOnderdeel":"Object Oriented Programming 2p",
+    "datum":"29-5-2015",
+    "cijfer":"3"
+  },
+  {
+    "studieOnderdeel":"Research Skills pa",
+    "datum":"25-5-2015",
+    "cijfer":"5,6"
+  },
+  {
+    "studieOnderdeel":"Project Skills mondeling",
+    "datum":"14-4-2015",
+    "cijfer":"6"
+  },
+  {
+    "studieOnderdeel":"Business tentamen",
+    "datum":"10-4-2015",
+    "cijfer":"5,5"
+  },
+  {
+    "studieOnderdeel":"Object Oriented Programming 2o",
+    "datum":"10-4-2015",
+    "cijfer":"onvold."
+  },
+  {
+    "studieOnderdeel":"Object Oriented Programming 2p",
+    "datum":"10-4-2015",
+    "cijfer":"4"
+  },
+  {
+    "studieOnderdeel":"PAD: Proces SCRUM",
+    "datum":"10-4-2015",
+    "cijfer":"6,5"
+  },
+  {
+    "studieOnderdeel":"PAD: Methoden & technieken UML",
+    "datum":"10-4-2015",
+    "cijfer":"7,6"
+  },
+  {
+    "studieOnderdeel":"Research Skills pa",
+    "datum":"10-4-2015",
+    "cijfer":"geen res."
+  },
+  {
+    "studieOnderdeel":"Object Oriented Programming 1o",
+    "datum":"13-3-2015",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"Domeinproject pr",
+    "datum":"7-2-2015",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"Databases tentamen",
+    "datum":"30-1-2015",
+    "cijfer":"7,4"
+  },
+  {
+    "studieOnderdeel":"Object Oriented Programming 1p",
+    "datum":"30-1-2015",
+    "cijfer":"5,5"
+  },
+  {
+    "studieOnderdeel":"Databases opdrachten",
+    "datum":"30-1-2015",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"Databases tentamen",
+    "datum":"30-1-2015",
+    "cijfer":"7,4"
+  },
+  {
+    "studieOnderdeel":"Essential Skills English toets",
+    "datum":"30-1-2015",
+    "cijfer":"5,5"
+  },
+  {
+    "studieOnderdeel":"Network Engineering 1 ten",
+    "datum":"30-1-2015",
+    "cijfer":"1"
+  },
+  {
+    "studieOnderdeel":"Object Oriented Programming 1p",
+    "datum":"30-1-2015",
+    "cijfer":"5,5"
+  },
+  {
+    "studieOnderdeel":"PFYS: Product",
+    "datum":"30-1-2015",
+    "cijfer":"7,5"
+  },
+  {
+    "studieOnderdeel":"PFYS: Proces",
+    "datum":"30-1-2015",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"PFYS: Methoden en technieken",
+    "datum":"30-1-2015",
+    "cijfer":"6,7"
+  },
+  {
+    "studieOnderdeel":"Essential Skills Wiskunde td",
+    "datum":"19-1-2015",
+    "cijfer":"8,7"
+  },
+  {
+    "studieOnderdeel":"Project Skills mondeling",
+    "datum":"19-1-2015",
+    "cijfer":"geen res."
+  },
+  {
+    "studieOnderdeel":"Programming opdrachten",
+    "datum":"7-11-2014",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"Programming practicum",
+    "datum":"7-11-2014",
+    "cijfer":"9"
+  },
+  {
+    "studieOnderdeel":"Learning Skills op",
+    "datum":"4-11-2014",
+    "cijfer":"7"
+  },
+  {
+    "studieOnderdeel":"Infrastructure tentamen",
+    "datum":"31-10-2014",
+    "cijfer":"7,2"
+  },
+  {
+    "studieOnderdeel":"SKC Aanwezigheid",
+    "datum":"11-6-2014",
+    "cijfer":"vold."
+  },
+  {
+    "studieOnderdeel":"SKC Advies",
+    "datum":"11-6-2014",
+    "cijfer":"vold."
+  }
+]

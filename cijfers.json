@@ -1,0 +1,277 @@
+{
+	"StudentNR": "500694522",
+	"Student": "Thedo Kuijf",
+	"Grades": [{
+		"course": "Data Analysis & Data Mining tp",
+		"date": "08/04/16",
+		"grade": "8"
+	}, {
+		"course": "Stage competentieontwikkelplan",
+		"date": "27/01/16",
+		"grade": "vold."
+	}, {
+		"course": "Stage Concept-portfolio",
+		"date": "27/01/16",
+		"grade": "vold."
+	}, {
+		"course": "Stage Portfolio-assessment",
+		"date": "27/01/16",
+		"grade": "9"
+	}, {
+		"course": "Mobile Infrastructure & Sec. o",
+		"date": "26/06/15",
+		"grade": "vold."
+	}, {
+		"course": "Mobile Infrastructure & Sec. t",
+		"date": "26/06/15",
+		"grade": "7,5"
+	}, {
+		"course": "Mobile Society paper",
+		"date": "26/06/15",
+		"grade": "geen res."
+	}, {
+		"course": "Mobile Society presentatie",
+		"date": "26/06/15",
+		"grade": "5"
+	}, {
+		"course": "PSP Information Management op",
+		"date": "24/06/15",
+		"grade": "8,5"
+	}, {
+		"course": "PMD methoden en technieken",
+		"date": "15/06/15",
+		"grade": "8"
+	}, {
+		"course": "PMD product",
+		"date": "15/06/15",
+		"grade": "8,5"
+	}, {
+		"course": "PMD process",
+		"date": "15/06/15",
+		"grade": "7,5"
+	},{
+		"course": "Sorting and Searching pract.",
+		"date": "29/04/15",
+		"grade": "vold."
+	}, {
+		"course": "Mobile Application Dev. assign",
+		"date": "10/04/15",
+		"grade": "vold."
+	}, {
+		"course": "Mobile Application Dev. pract.",
+		"date": "10/04/15",
+		"grade": "8,5"
+	}, {
+		"course": "Mobile Design & Prototyping o.",
+		"date": "10/04/15",
+		"grade": "vold."
+	}, {
+		"course": "Mobile Design & Prototyping p.",
+		"date": "10/04/15",
+		"grade": "8"
+	}, {
+		"course": "PEWA product",
+		"date": "30/01/15",
+		"grade": "9,2"
+	}, {
+		"course": "PEWA process",
+		"date": "30/01/15",
+		"grade": "8"
+	}, {
+		"course": "PEWA methoden en technieken",
+		"date": "30/01/15",
+		"grade": "7"
+	}, {
+		"course": "PEWA fluency",
+		"date": "30/01/15",
+		"grade": "vold."
+	}, {
+		"course": "Peer-assessment tm",
+		"date": "30/01/15",
+		"grade": "7,5"
+	}, {
+		"course": "Sorting and Searching pract.",
+		"date": "30/01/15",
+		"grade": "vold."
+	}, {
+		"course": "Sorting and Searching theory",
+		"date": "30/01/15",
+		"grade": "6,5"
+	}, {
+		"course": "Testing practical",
+		"date": "30/01/15",
+		"grade": "vold."
+	}, {
+		"course": "Testing theory",
+		"date": "30/01/15",
+		"grade": "5,5"
+	}, {
+		"course": "PSP Scient. Research Skills op",
+		"date": "30/01/15",
+		"grade": "9"
+	}, {
+		"course": "Cursusnaam",
+		"date": "19/01/15",
+		"grade": "vold."
+	}, {
+		"course": "Business tentamen",
+		"date": "19/12/14",
+		"grade": "6"
+	}, {
+		"course": "Datastructures theory",
+		"date": "19/12/14",
+		"grade": "7,5"
+	}, {
+		"course": "Essential Skills Nederlands ts",
+		"date": "08/12/14",
+		"grade": "7"
+	}, {
+		"course": "OOAD practical",
+		"date": "08/12/14",
+		"grade": "vold."
+	}, {
+		"course": "Essential Skills Nederlands ts",
+		"date": "07/11/14",
+		"grade": "5"
+	}, {
+		"course": "Datastructures practical",
+		"date": "07/11/14",
+		"grade": "vold."
+	}, {
+		"course": "Datastructures theory",
+		"date": "07/11/14",
+		"grade": "5"
+	}, {
+		"course": "PEWA WEB theory",
+		"date": "07/11/14",
+		"grade": "8"
+	}, {
+		"course": "OOAD practical",
+		"date": "07/11/14",
+		"grade": "vold."
+	}, {
+		"course": "OOAD theory",
+		"date": "07/11/14",
+		"grade": "6"
+	}, {
+		"course": "Job Orientation assignments",
+		"date": "05/11/14",
+		"grade": "7"
+	}, {
+		"course": "Job Orientation presentie",
+		"date": "05/11/14",
+		"grade": "vold."
+	}, {
+		"course": "User Interaction tentamen",
+		"date": "04/07/14",
+		"grade": "6"
+	}, {
+		"course": "User Interaction practicum",
+		"date": "03/07/14",
+		"grade": "vold."
+	}, {
+		"course": "Databases 2 practicum",
+		"date": "20/06/14",
+		"grade": "vold."
+	}, {
+		"course": "Databases 2 tentamen",
+		"date": "20/06/14",
+		"grade": "8,5"
+	}, {
+		"course": "PAD: Product",
+		"date": "20/06/14",
+		"grade": "8,6"
+	}, {
+		"course": "PAD: Proces mondeling",
+		"date": "20/06/14",
+		"grade": "8"
+	}, {
+		"course": "PAD: Methoden en technieken tm",
+		"date": "20/06/14",
+		"grade": "8"
+	}, {
+		"course": "User Interaction tentamen",
+		"date": "20/06/14",
+		"grade": "5"
+	}, {
+		"course": "User Interaction practicum",
+		"date": "20/06/14",
+		"grade": "onvold."
+	}, {
+		"course": "Communication Skills mondeling",
+		"date": "16/06/14",
+		"grade": "7"
+	}, {
+		"course": "Infrastructure tentamen",
+		"date": "07/04/14",
+		"grade": "7"
+	}, {
+		"course": "Infrastructure practicum",
+		"date": "07/04/14",
+		"grade": "vold."
+	}, {
+		"course": "Object Oriented Programming 2p",
+		"date": "07/04/14",
+		"grade": "7"
+	}, {
+		"course": "PAD: Proces SCRUM",
+		"date": "07/04/14",
+		"grade": "9"
+	}, {
+		"course": "PAD: Methoden & technieken UML",
+		"date": "07/04/14",
+		"grade": "8"
+	}, {
+		"course": "Research Skills pa",
+		"date": "07/04/14",
+		"grade": "8"
+	}, {
+		"course": "Domeinproject pr",
+		"date": "03/02/14",
+		"grade": "8"
+	}, {
+		"course": "Databases practicum",
+		"date": "31/01/14",
+		"grade": "vold."
+	}, {
+		"course": "Databases tentamen",
+		"date": "31/01/14",
+		"grade": "8,2"
+	}, {
+		"course": "Object Oriented Programming 1p",
+		"date": "31/01/14",
+		"grade": "10"
+	}, {
+		"course": "Project Skills mondeling",
+		"date": "27/01/14",
+		"grade": "8"
+	}, {
+		"course": "PFYS: Product",
+		"date": "13/01/14",
+		"grade": "8"
+	}, {
+		"course": "PFYS: Proces",
+		"date": "13/01/14",
+		"grade": "8,5"
+	}, {
+		"course": "PFYS: Methoden en technieken",
+		"date": "13/01/14",
+		"grade": "8"
+	}, {
+		"course": "Business tentamen",
+		"date": "05/11/13",
+		"grade": "4"
+	}, {
+		"course": "Essential Skills English toets",
+		"date": "08/11/13",
+		"grade": "9"
+	}, {
+		"course": "Programming practicum",
+		"date": "01/11/13",
+		"grade": "10"
+	}, {
+		"course": "Learning Skills op",
+		"date": "28/10/13",
+		"grade": "7"
+	}]
+}

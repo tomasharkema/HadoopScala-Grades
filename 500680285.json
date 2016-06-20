@@ -1,0 +1,331 @@
+{
+  "name": "Erik Lamers",
+  "grades": [
+    {
+      "course": "Bedrijfspunt 2",
+      "result": 8,
+      "date": "31-03-2016"
+    },
+    {
+      "course": "Bedrijfspunt 3",
+      "result": 8,
+      "date": "31-06-2016"
+    },
+    {
+      "course": "Project Security meth & techn",
+      "result": 6,
+      "date": "29-01-2016"
+    },
+    {
+      "course": "Project Security product",
+      "result": 8,
+      "date": "29-01-2016"
+    },
+    {
+      "course": "Project Security process",
+      "result": 6,
+      "date": "29-01-2016"
+    },
+    {
+      "course": "Stage Competentieontwikkelplan",
+      "result": 10,
+      "date": "27-01-2016"
+    },
+    {
+      "course": "Stage Concept-portfolio",
+      "result": 10,
+      "date": "27-01-2016"
+    },
+    {
+      "course": "Stage Portfolio-assessment",
+      "result": 9,
+      "date": "27-01-2016"
+    },
+    {
+      "course": "Incident Response paper",
+      "result": 7,
+      "date": "26-06-2015"
+    },
+    {
+      "course": "Incident Response theory",
+      "result": 7,
+      "date": "26-06-2015"
+    },
+    {
+      "course": "PSP Effective communication op",
+      "result": 8,
+      "date": "24-06-2015"
+    },
+    {
+      "course": "Software Security practical",
+      "result": 9,
+      "date": "23-06-2015"
+    },
+    {
+      "course": "Software Security theory",
+      "result": 6,
+      "date": "23-06-2015"
+    },
+    {
+      "course": "Risk Assessment paper",
+      "result": 7,
+      "date": "29-05-2015"
+    },
+    {
+      "course": "Infrastructure Security pract.",
+      "result": 9,
+      "date": "10-04-2015"
+    },
+    {
+      "course": "Infrastructure Security theory",
+      "result": 7,
+      "date": "10-04-2015"
+    },
+    {
+      "course": "Risk Assessment theory",
+      "result": 6,
+      "date": "10-04-2015"
+    },
+    {
+      "course": "Bedrijfspunt 1",
+      "result": 7,
+      "date": "06-02-2015"
+    },
+    {
+      "course": "Network Engineering 2 theory",
+      "result": 7,
+      "date": "30-01-2015"
+    },
+    {
+      "course": "Peer-assessment tm",
+      "result": 7,
+      "date": "30-01-2015"
+    },
+    {
+      "course": "PVIRT fluency",
+      "result": 10,
+      "date": "30-01-2015"
+    },
+    {
+      "course": "PSP Project Management op",
+      "result": 7,
+      "date": "30-01-2015"
+    },
+    {
+      "course": "Implementation opdracht",
+      "result": 8,
+      "date": "27-01-2015"
+    },
+    {
+      "course": "PVIRT process",
+      "result": 9,
+      "date": "21-01-2015"
+    },
+    {
+      "course": "PVIRT product",
+      "result": 9,
+      "date": "19-01-2015"
+    },
+    {
+      "course": "PVIRT methoden en technieken",
+      "result": 8,
+      "date": "19-01-2015"
+    },
+    {
+      "course": "Essential Skills Nederlands ts",
+      "result": 8,
+      "date": "07-11-2014"
+    },
+    {
+      "course": "System Engineering 2 theory",
+      "result": 7,
+      "date": "07-11-2014"
+    },
+    {
+      "course": "Testing practical",
+      "result": 10,
+      "date": "07-11-2014"
+    },
+    {
+      "course": "Testing theory",
+      "result": 7,
+      "date": "07-11-2014"
+    },
+    {
+      "course": "Job Orientation assignments",
+      "result": 8,
+      "date": "05-11-2014"
+    },
+    {
+      "course": "Job Orientation presentie",
+      "result": 10,
+      "date": "05-11-2014"
+    },
+    {
+      "course": "Essential Skills Nederlands ts",
+      "result": 5,
+      "date": "04-07-2014"
+    },
+    {
+      "course": "Essential Skills Nederlands ts",
+      "result": 5,
+      "date": "20-06-2014"
+    },
+    {
+      "course": "PAD: Proces mondeling",
+      "result": 7,
+      "date": "20-06-2014"
+    },
+    {
+      "course": "PAD: Methoden en technieken tm",
+      "result": 7,
+      "date": "20-06-2014"
+    },
+    {
+      "course": "System Engineering Program. th",
+      "result": 8,
+      "date": "20-06-2014"
+    },
+    {
+      "course": "System Engineering Program. pr",
+      "result": 8,
+      "date": "20-06-2014"
+    },
+    {
+      "course": "Business tentamen",
+      "result": 6,
+      "date": "19-06-2014"
+    },
+    {
+      "course": "Communication Skills mondeling",
+      "result": 7,
+      "date": "16-06-2014"
+    },
+    {
+      "course": "PAD: Product",
+      "result": 6,
+      "date": "16-06-2014"
+    },
+    {
+      "course": "Research Skills pa",
+      "result": 7,
+      "date": "26-05-2014"
+    },
+    {
+      "course": "User Interaction tentamen",
+      "result": 7,
+      "date": "26-05-2014"
+    },
+    {
+      "course": "PAD: Proces SCRUM",
+      "result": 7,
+      "date": "07-04-2014"
+    },
+    {
+      "course": "PAD: Methoden & technieken UML",
+      "result": 7,
+      "date": "07-04-2014"
+    },
+    {
+      "course": "System Engineering 1 practicum",
+      "result": 6,
+      "date": "07-04-2014"
+    },
+    {
+      "course": "System Engineering 1 tentamen",
+      "result": 7,
+      "date": "07-04-2014"
+    },
+    {
+      "course": "User Interaction tentamen",
+      "result": 6,
+      "date": "07-04-2014"
+    },
+    {
+      "course": "User Interaction practicum",
+      "result": 10,
+      "date": "07-04-2014"
+    },
+    {
+      "course": "Essential Skills Wiskunde td",
+      "result": 9,
+      "date": "20-02-2014"
+    },
+    {
+      "course": "PFYS: Methoden en technieken",
+      "result": 9,
+      "date": "14-02-2014"
+    },
+    {
+      "course": "Domeinproject pr",
+      "result": 6,
+      "date": "03-02-2014"
+    },
+    {
+      "course": "Databases practicum",
+      "result": 10,
+      "date": "31-01-2014"
+    },
+    {
+      "course": "Databases tentamen",
+      "result": 8,
+      "date": "31-01-2014"
+    },
+    {
+      "course": "Network Engineering 1 pr",
+      "result": 10,
+      "date": "31-01-2014"
+    },
+    {
+      "course": "Network Engineering 1 ten",
+      "result": 8,
+      "date": "31-01-2014"
+    },
+    {
+      "course": "Project Skills mondeling",
+      "result": 8,
+      "date": "27-01-2014"
+    },
+    {
+      "course": "PFYS: Product",
+      "result": 7,
+      "date": "13-01-2014"
+    },
+    {
+      "course": "PFYS: Proces",
+      "result": 8,
+      "date": "13-01-2014"
+    },
+    {
+      "course": "PFYS: Methoden en technieken",
+      "result": 6,
+      "date": "13-01-2014"
+    },
+    {
+      "course": "Essential Skills English toets",
+      "result": 6,
+      "date": "08-11-2013"
+    },
+    {
+      "course": "Infrastructure tentamen",
+      "result": 9,
+      "date": "08-11-2013"
+    },
+    {
+      "course": "Infrastructure practicum",
+      "result": 10,
+      "date": "08-11-2013"
+    },
+    {
+      "course": "Programming practicum",
+      "result": 9,
+      "date": "01-11-2013"
+    },
+    {
+      "course": "Learning Skills op",
+      "result": 7,
+      "date":  "28-10-2013"
+    }
+  ]
+  
+}

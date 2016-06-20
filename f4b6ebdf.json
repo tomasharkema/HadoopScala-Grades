@@ -1,0 +1,380 @@
+[
+  {
+    "FIELD1":"Nummer studiedeel",
+    "FIELD2":"Omschrijving",
+    "FIELD3":"Toetsdatum",
+    "FIELD4":"Offic. cijfer"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2015TESTTD",
+    "FIELD2":"Testing theory",
+    "FIELD3":"18-3-2016",
+    "FIELD4":"geen res."
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BPM1PD",
+    "FIELD2":"PBPM product",
+    "FIELD3":"29-1-2016",
+    "FIELD4":"6,1"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BPM2TS",
+    "FIELD2":"PBPM theorie/practicum toets",
+    "FIELD3":"29-1-2016",
+    "FIELD4":"6"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BPM4TM",
+    "FIELD2":"PBPM methoden en technieken",
+    "FIELD3":"29-1-2016",
+    "FIELD4":"6,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BPM5TM",
+    "FIELD2":"PBPM individueel fluency",
+    "FIELD3":"29-1-2016",
+    "FIELD4":"vold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014CM__PE",
+    "FIELD2":"Change Management practical",
+    "FIELD3":"29-1-2016",
+    "FIELD4":"6,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014CM__TS",
+    "FIELD2":"Change Management theory",
+    "FIELD3":"29-1-2016",
+    "FIELD4":"7,7"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2015TESTTD",
+    "FIELD2":"Testing theory",
+    "FIELD3":"29-1-2016",
+    "FIELD4":"geen res."
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BPM3TM",
+    "FIELD2":"PBPM process",
+    "FIELD3":"27-1-2016",
+    "FIELD4":"7,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014PEERTM",
+    "FIELD2":"Peer-assessment tm",
+    "FIELD3":"18-1-2016",
+    "FIELD4":"7,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014TESTOP",
+    "FIELD2":"Testing practical",
+    "FIELD3":"18-1-2016",
+    "FIELD4":"vold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 5014PS05OP",
+    "FIELD2":"PSP Project Management op",
+    "FIELD3":"18-1-2016",
+    "FIELD4":"7,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BI__OP",
+    "FIELD2":"Business Intelligence pract.",
+    "FIELD3":"18-12-2015",
+    "FIELD4":"onvold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BI__TS",
+    "FIELD2":"Business Intelligence theory",
+    "FIELD3":"18-12-2015",
+    "FIELD4":"3,8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014JO__OP",
+    "FIELD2":"Job Orientation assignments",
+    "FIELD3":"18-12-2015",
+    "FIELD4":"6,9"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BI__OP",
+    "FIELD2":"Business Intelligence pract.",
+    "FIELD3":"6-11-2015",
+    "FIELD4":"geen res."
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014BI__TS",
+    "FIELD2":"Business Intelligence theory",
+    "FIELD3":"6-11-2015",
+    "FIELD4":"1"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014FM__PA",
+    "FIELD2":"Financial Management paper",
+    "FIELD3":"6-11-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014FM__TS",
+    "FIELD2":"Financial Management theory",
+    "FIELD3":"6-11-2015",
+    "FIELD4":"8,2"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014JO__OP",
+    "FIELD2":"Job Orientation assignments",
+    "FIELD3":"6-11-2015",
+    "FIELD4":"4,8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 2014JO__PS",
+    "FIELD2":"Job Orientation presentie",
+    "FIELD3":"6-11-2015",
+    "FIELD4":"vold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014INF_TD",
+    "FIELD2":"Infrastructure tentamen",
+    "FIELD3":"3-7-2015",
+    "FIELD4":"6,1"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD2TM",
+    "FIELD2":"PAD: Proces mondeling",
+    "FIELD3":"3-7-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD4TM",
+    "FIELD2":"PAD: Methoden en technieken tm",
+    "FIELD3":"3-7-2015",
+    "FIELD4":"6,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1013ITSMTS",
+    "FIELD2":"IT Service Management tentamen",
+    "FIELD3":"1-7-2015",
+    "FIELD4":"4,9"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD1PD",
+    "FIELD2":"PAD: Product",
+    "FIELD3":"26-6-2015",
+    "FIELD4":"8,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD2TM",
+    "FIELD2":"PAD: Proces mondeling",
+    "FIELD3":"26-6-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD4TM",
+    "FIELD2":"PAD: Methoden en technieken tm",
+    "FIELD3":"26-6-2015",
+    "FIELD4":"6,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014ESKNTD",
+    "FIELD2":"Essential Skills Nederlands td",
+    "FIELD3":"24-6-2015",
+    "FIELD4":"7"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014CSK_TM",
+    "FIELD2":"Communication Skills mondeling",
+    "FIELD3":"18-6-2015",
+    "FIELD4":"7"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1013BIS_TM",
+    "FIELD2":"Business Info. Syst. procesm.",
+    "FIELD3":"17-6-2015",
+    "FIELD4":"6,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014USIATD",
+    "FIELD2":"User Interaction tentamen",
+    "FIELD3":"17-6-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014USIATP",
+    "FIELD2":"User Interaction practicum",
+    "FIELD3":"17-6-2015",
+    "FIELD4":"onvold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 1013ITSMTS",
+    "FIELD2":"IT Service Management tentamen",
+    "FIELD3":"15-6-2015",
+    "FIELD4":"2,2"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD3TD",
+    "FIELD2":"PAD: Proces SCRUM",
+    "FIELD3":"29-5-2015",
+    "FIELD4":"7,1"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014RSK_PA",
+    "FIELD2":"Research Skills pa",
+    "FIELD3":"28-5-2015",
+    "FIELD4":"7,3"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1013BIS_TM",
+    "FIELD2":"Business Info. Syst. procesm.",
+    "FIELD3":"10-4-2015",
+    "FIELD4":"5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1013BIS_TS",
+    "FIELD2":"Business Info. Syst. tentamen",
+    "FIELD3":"10-4-2015",
+    "FIELD4":"6"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014INF_TD",
+    "FIELD2":"Infrastructure tentamen",
+    "FIELD3":"10-4-2015",
+    "FIELD4":"5,4"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD3TD",
+    "FIELD2":"PAD: Proces SCRUM",
+    "FIELD3":"10-4-2015",
+    "FIELD4":"4,4"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PAD5TD",
+    "FIELD2":"PAD: Methoden & technieken UML",
+    "FIELD3":"10-4-2015",
+    "FIELD4":"6,2"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014RSK_PA",
+    "FIELD2":"Research Skills pa",
+    "FIELD3":"10-4-2015",
+    "FIELD4":"geen res."
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PFYST2",
+    "FIELD2":"PFYS: Methoden en technieken",
+    "FIELD3":"2-4-2015",
+    "FIELD4":"7"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014INF_TD",
+    "FIELD2":"Infrastructure tentamen",
+    "FIELD3":"27-3-2015",
+    "FIELD4":"4,1"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PRO_TP",
+    "FIELD2":"Programming practicum",
+    "FIELD3":"13-3-2015",
+    "FIELD4":"10"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1013M&O_TS",
+    "FIELD2":"Management & Organization ts",
+    "FIELD3":"6-3-2015",
+    "FIELD4":"6,6"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014SIM_PR",
+    "FIELD2":"Domeinproject pr",
+    "FIELD3":"7-2-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014ESKETD",
+    "FIELD2":"Essential Skills English toets",
+    "FIELD3":"30-1-2015",
+    "FIELD4":"6"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PFYSPD",
+    "FIELD2":"PFYS: Product",
+    "FIELD3":"30-1-2015",
+    "FIELD4":"6,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PFYST1",
+    "FIELD2":"PFYS: Proces",
+    "FIELD3":"30-1-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PFYST2",
+    "FIELD2":"PFYS: Methoden en technieken",
+    "FIELD3":"30-1-2015",
+    "FIELD4":"7"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PRO_OP",
+    "FIELD2":"Programming opdrachten",
+    "FIELD3":"30-1-2015",
+    "FIELD4":"vold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PRO_TP",
+    "FIELD2":"Programming practicum",
+    "FIELD3":"30-1-2015",
+    "FIELD4":"4"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1013M&O_TS",
+    "FIELD2":"Management & Organization ts",
+    "FIELD3":"28-1-2015",
+    "FIELD4":"3,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014ESKWTD",
+    "FIELD2":"Essential Skills Wiskunde td",
+    "FIELD3":"19-1-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014PSK_TM",
+    "FIELD2":"Project Skills mondeling",
+    "FIELD3":"19-1-2015",
+    "FIELD4":"8"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014BUS_TS",
+    "FIELD2":"Business tentamen",
+    "FIELD3":"7-11-2014",
+    "FIELD4":"6,5"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014DB__OP",
+    "FIELD2":"Databases opdrachten",
+    "FIELD3":"7-11-2014",
+    "FIELD4":"vold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014DB__TS",
+    "FIELD2":"Databases tentamen",
+    "FIELD3":"7-11-2014",
+    "FIELD4":"5,7"
+  },
+  {
+    "FIELD1":"DMCI-ICT 1014LSK_OP",
+    "FIELD2":"Learning Skills op",
+    "FIELD3":"4-11-2014",
+    "FIELD4":"7"
+  },
+  {
+    "FIELD1":"DMCI-ICT 8800IAAN14",
+    "FIELD2":"SKC Aanwezigheid",
+    "FIELD3":"20-8-2014",
+    "FIELD4":"vold."
+  },
+  {
+    "FIELD1":"DMCI-ICT 8800IADV14",
+    "FIELD2":"SKC Advies",
+    "FIELD3":"20-8-2014",
+    "FIELD4":"vold."
+  }
+]

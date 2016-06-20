@@ -1,0 +1,290 @@
+{
+    "name" : "Joran Bergfeld",
+    "grades" : [
+    {
+        "course" : "Network Engineering 2",
+        "result" : 10,
+        "date" : "29-01-2016"
+    },
+    {
+        "course" : "Project Security - Method",
+        "result" : 6,
+        "date" : "29-01-2016"
+    },
+    {
+        "course" : "Project Security - Product",
+        "result" : 8,
+        "date" : "29-01-2016"
+    },
+    {
+        "course" : "Project Security - Process",
+        "result" : 6,
+        "date" : "29-01-2016"
+    },
+    {
+        "course" : "PSP - Professional Ethics",
+        "result" : 6,
+        "date" : "08-07-2015"
+    },
+    {
+        "course" : "Indicent Response - Paper",
+        "result" : 7,
+        "date" : "26-06-2015"
+    },
+    {
+        "course" : "Incident Response - Theory",
+        "result" : 6,
+        "date" : "26-06-2015"
+    },
+    {
+        "course" : "Software Security - Practical",
+        "result" : 9,
+        "date" : "23-06-2015"
+    },
+    {
+        "course" : "Software Security - Theory",
+        "result" : 7,
+        "date" : "23-06-2015"
+    },
+    {
+        "course" : "Peer assessment",
+        "result" : 6,
+        "date" : "29-05-2015"
+    },
+    {
+        "course" : "Infrastructure Security - Partical",
+        "result" : 8,
+        "date" : "29-05-2015"
+    },
+        {
+        "course" : "Network Engineering 3",
+        "result" : 8,
+        "date" : "10-04-2015"
+    },
+    {
+        "course" : "Infrastructure Security - Theory",
+        "result" : 6,
+        "date" : "10-04-2015"
+    },
+    {
+        "course" : "Risk Assessment - Paper",
+        "result" : 7,
+        "date" : "10-04-2015"
+    },
+    {
+        "course" : "Risk Assessment - Theory",
+        "result" : 7,
+        "date" : "10-04-2015"
+    },
+    {
+        "course" : "Project Virtualization - Fluency",
+        "result" : 6,
+        "date" : "30-01-2015"
+    },
+    {
+        "course" : "PSP - Intercultural Skills",
+        "result" : 8,
+        "date" : "30-01-2015"
+    },
+    {
+        "course" : "Implementation",
+        "result" : 10,
+        "date" : "27-01-2015"
+    },
+    {
+        "course" : "Project Virtualization - Process",
+        "result" : 7,
+        "date" : "21-01-2015"
+    },
+    {
+        "course" : "Project Virtualization - Product",
+        "result" : 9,
+        "date" : "19-01-2015"
+    },
+    {
+        "course" : "Project Virtualization - Method",
+        "result" : 9,
+        "date" : "19-01-2015"
+    },
+    {
+        "course" : "Job Orientation - Assignment",
+        "result" : 7,
+        "date" : "19-12-2014"
+    },
+    {
+        "course" : "System Engineering 2",
+        "result" : 8,
+        "date" : "07-11-2014"
+    },
+    {
+        "course" : "Testing - Practical",
+        "result" : 6,
+        "date" : "07-11-2014"
+    },
+    {
+        "course" : "Testing - Theory",
+        "result" : 7,
+        "date" : "07-11-2014"
+    },
+    {
+        "course" : "Job Orientation - Presentation",
+        "result" : 6,
+        "date" : "05-11-2014"
+    },
+    {
+        "course" : "Communication Skills",
+        "result" : 7,
+        "date" : "04-07-2014"
+    },
+    {
+        "course" : "Essential Skills - Dutch",
+        "result" : 8,
+        "date" : "04-07-2014"
+    },
+    {
+        "course" : "User Interaction - Practical",
+        "result" : 6,
+        "date" : "04-07-2014"
+    },
+    {
+        "course" : "Project Agile Development - Product",
+        "result" : 7,
+        "date" : "03-07-2014"
+    },
+    {
+        "course" : "Essential Skills - English",
+        "result" : 8,
+        "date" : "20-06-2014"
+    },
+    {
+        "course" : "Project Agile Development - Process",
+        "result" : 9,
+        "date" : "20-06-2014"
+    },
+    {
+        "course" : "Project Agile Development - Technical",
+        "result" : 10,
+        "date" : "20-06-2014"
+    },
+    {
+        "course" : "System Engineering Programming - Theory",
+        "result" : 8,
+        "date" : "20-06-2014"
+    },
+    {
+        "course" : "System Engineering Programming - Pratical",
+        "result" : 8,
+        "date" : "20-06-2014"
+    },
+    {
+        "course" : "Business",
+        "result" : 6,
+        "date" : "19-06-2014"
+    },
+    {
+        "course" : "Research Skills",
+        "result": 8,
+        "date" : "26-05-2014"
+    },
+    {
+        "course" : "Object Orienated Programming 2",
+        "result" : 10,
+        "date" : "07-04-2014"
+    },
+    {
+        "course" : "Project Agile Development - Scrum",
+        "result" : 8,
+        "date" : "07-04-2014"
+    },
+    {
+        "course" : "Project Agile Development - UML",
+        "result" : 7,
+        "date" : "07-04-2014"
+    },
+    {
+        "course" : "System Engineering 1 - Practical",
+        "result" : 10,
+        "date" : "07-04-2014"
+    },
+    {
+        "course" : "System Engineering 1 - Theory",
+        "result" : 8,
+        "date" : "07-04-2014"
+    },
+    {
+        "course" : "User Interaction - Theory",
+        "result" : 7,
+        "date" : "07-04-2014"
+    },
+    {
+        "course" : "Databases - Theory",
+        "result" : 9,
+        "date" : "10-03-2014"
+    },
+    {
+        "course" : "Essential Skills - Maths",
+        "result" : 9,
+        "date" : "20-02-2014"
+    },
+    {
+        "course" : "Project Skills",
+        "result" : 8,
+        "date" : "18-02-2014"
+    },
+    {
+        "course" : "Domain Project",
+        "result" : 9, 
+        "date" : "03-02-2014"
+    },
+    {
+        "course" : "Databases - Practical",
+        "result" : 6,
+        "date" : "31-01-2014"
+    },
+    {
+        "course" : "Network Engineering - Practical",
+        "result" : 6, 
+        "date" : "31-01-2014"
+    },
+    {
+        "course" : "Network Engineering - Theory",
+        "result" : 9,
+        "date" : "31-01-2014"
+    },
+    {
+        "course" : "Project Fasten Your Seatbelts - Product",
+        "result" : 7,
+        "date" : "13-01-2014"
+    },
+    {
+        "course" : "Project Fasten Your Seatbelts - Process",
+        "result" : 8,
+        "date" : "13-01-2014"
+    },
+    {
+        "course" : "Project Fasten Your Seatbelts - Technical",
+        "result" : 8,
+        "date" : "13-01-2014"
+    },
+    {
+        "course" : "Infrastructure - Theory",
+        "result" : 8,
+        "date" : "08-11-2013"
+    },
+    {
+        "course" : "Infrastructure - Practical",
+        "result" : 6,
+        "date" : "08-11-2013"
+    },
+    {
+        "course" : "Programming",
+        "result" : 10,
+        "date" : "01-11-2013"
+    },
+    {
+        "course" : "Learning Skills",
+        "result" : 7,
+        "date" : "28-10-2013"
+    }    
+    ]
+}

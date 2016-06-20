@@ -1,0 +1,457 @@
+[
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014S&S_TS",
+        "description": "Sorting and Searching theory",
+        "examDate": "03/18/2016",
+        "grade": "7,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2015TESTTD",
+        "description": "Testing theory",
+        "examDate": "03/18/2016",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014TESTOP",
+        "description": "Testing practical",
+        "examDate": "03/07/2016",
+        "grade": "not sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014EWA1PD",
+        "description": "PEWA product",
+        "examDate": "01/29/2016",
+        "grade": "9,5"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014EWA3TM",
+        "description": "PEWA process",
+        "examDate": "01/29/2016",
+        "grade": "8,5"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014EWA4TM",
+        "description": "PEWA methoden en technieken",
+        "examDate": "01/29/2016",
+        "grade": "9,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014EWA5TM",
+        "description": "PEWA fluency",
+        "examDate": "01/29/2016",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014S&S_OP",
+        "description": "Sorting and Searching pract.",
+        "examDate": "01/29/2016",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014S&S_TS",
+        "description": "Sorting and Searching theory",
+        "examDate": "01/29/2016",
+        "grade": "5,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2015TESTTD",
+        "description": "Testing theory",
+        "examDate": "01/29/2016",
+        "grade": "5,8"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014PEERTM",
+        "description": "Peer-assessment tm",
+        "examDate": "01/18/2016",
+        "grade": "7,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014TESTOP",
+        "description": "Testing practical",
+        "examDate": "01/18/2016",
+        "grade": "not sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 5015PS11OP",
+        "description": "PSP Coached Coursera op",
+        "examDate": "01/18/2016",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014JO__OP",
+        "description": "Job Orientation assignments",
+        "examDate": "12/18/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014DS__OP",
+        "description": "Datastructures practical",
+        "examDate": "11/06/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014EWA2TP",
+        "description": "PEWA WEB theory",
+        "examDate": "11/06/2015",
+        "grade": "10,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014JO__OP",
+        "description": "Job Orientation assignments",
+        "examDate": "11/06/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014JO__PS",
+        "description": "Job Orientation presentie",
+        "examDate": "11/06/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014OOADOP",
+        "description": "OOAD practical",
+        "examDate": "11/06/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2014OOADTD",
+        "description": "OOAD theory",
+        "examDate": "11/06/2015",
+        "grade": "8,1"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 2015DS__TD",
+        "description": "Datastructures theory",
+        "examDate": "11/06/2015",
+        "grade": "8,8"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 5015IS__TD",
+        "description": "Infrastructure Security theory",
+        "examDate": "11/06/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014INF_TD",
+        "description": "Infrastructure tentamen",
+        "examDate": "07/03/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014ESKETD",
+        "description": "Essential Skills English toets",
+        "examDate": "07/02/2015",
+        "grade": "6,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014DB2_OP",
+        "description": "Databases 2 opdrachten",
+        "examDate": "07/01/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PAD1PD",
+        "description": "PAD: Product",
+        "examDate": "06/26/2015",
+        "grade": "7,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PAD2TM",
+        "description": "PAD: Proces mondeling",
+        "examDate": "06/26/2015",
+        "grade": "8,5"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PAD4TM",
+        "description": "PAD: Methoden en technieken tm",
+        "examDate": "06/26/2015",
+        "grade": "8,5"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014ESKNTD",
+        "description": "Essential Skills Nederlands td",
+        "examDate": "06/24/2015",
+        "grade": "7,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014DB2_OP",
+        "description": "Databases 2 opdrachten",
+        "examDate": "06/19/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014DB2_TS",
+        "description": "Databases 2 tentamen",
+        "examDate": "06/19/2015",
+        "grade": "8,7"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014CSK_TM",
+        "description": "Communication Skills mondeling",
+        "examDate": "06/18/2015",
+        "grade": "9,5"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014USIATD",
+        "description": "User Interaction tentamen",
+        "examDate": "06/17/2015",
+        "grade": "8,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014USIATP",
+        "description": "User Interaction practicum",
+        "examDate": "06/17/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP2OP",
+        "description": "Object Oriented Programming 2o",
+        "examDate": "05/29/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP2TP",
+        "description": "Object Oriented Programming 2p",
+        "examDate": "05/29/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PAD3TD",
+        "description": "PAD: Proces SCRUM",
+        "examDate": "05/29/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PAD5TD",
+        "description": "PAD: Methoden & technieken UML",
+        "examDate": "05/29/2015",
+        "grade": "7,9"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014RSK_PA",
+        "description": "Research Skills pa",
+        "examDate": "05/25/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014INF_TD",
+        "description": "Infrastructure tentamen",
+        "examDate": "04/10/2015",
+        "grade": "9,1"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP2OP",
+        "description": "Object Oriented Programming 2o",
+        "examDate": "04/10/2015",
+        "grade": "not sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP2OP",
+        "description": "Object Oriented Programming 2o",
+        "examDate": "04/10/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP2TP",
+        "description": "Object Oriented Programming 2p",
+        "examDate": "04/10/2015",
+        "grade": "no result"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP2TP",
+        "description": "Object Oriented Programming 2p",
+        "examDate": "04/10/2015",
+        "grade": "9,5"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PAD3TD",
+        "description": "PAD: Proces SCRUM",
+        "examDate": "04/10/2015",
+        "grade": "8,1"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PAD5TD",
+        "description": "PAD: Methoden & technieken UML",
+        "examDate": "04/10/2015",
+        "grade": "7,1"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014RSK_PA",
+        "description": "Research Skills pa",
+        "examDate": "04/10/2015",
+        "grade": "8,4"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014INF_TD",
+        "description": "Infrastructure tentamen",
+        "examDate": "03/27/2015",
+        "grade": "7,2"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP1OP",
+        "description": "Object Oriented Programming 1o",
+        "examDate": "03/13/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014SIM_PR",
+        "description": "Domeinproject pr",
+        "examDate": "02/07/2015",
+        "grade": "1,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014DB__OP",
+        "description": "Databases opdrachten",
+        "examDate": "01/30/2015",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014DB__TS",
+        "description": "Databases tentamen",
+        "examDate": "01/30/2015",
+        "grade": "9,2"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP1OP",
+        "description": "Object Oriented Programming 1o",
+        "examDate": "01/30/2015",
+        "grade": "not sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014OOP1TP",
+        "description": "Object Oriented Programming 1p",
+        "examDate": "01/30/2015",
+        "grade": "10,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PFYSPD",
+        "description": "PFYS: Product",
+        "examDate": "01/30/2015",
+        "grade": "8,5"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PFYST1",
+        "description": "PFYS: Proces",
+        "examDate": "01/30/2015",
+        "grade": "8,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PFYST2",
+        "description": "PFYS: Methoden en technieken",
+        "examDate": "01/30/2015",
+        "grade": "9,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014ESKWTD",
+        "description": "Essential Skills Wiskunde td",
+        "examDate": "01/26/2015",
+        "grade": "exemption"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PSK_TM",
+        "description": "Project Skills mondeling",
+        "examDate": "01/19/2015",
+        "grade": "9,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PRO_OP",
+        "description": "Programming opdrachten",
+        "examDate": "12/17/2014",
+        "grade": "sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014BUS_TS",
+        "description": "Business tentamen",
+        "examDate": "11/07/2014",
+        "grade": "7,8"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PRO_OP",
+        "description": "Programming opdrachten",
+        "examDate": "11/07/2014",
+        "grade": "not sat."
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014PRO_TP",
+        "description": "Programming practicum",
+        "examDate": "11/07/2014",
+        "grade": "9,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 1014LSK_OP",
+        "description": "Learning Skills op",
+        "examDate": "11/04/2014",
+        "grade": "8,0"
+    },
+    {
+        "career": "Bachelor",
+        "courseCode": "DMCI-ICT 8800IAAN14",
+        "description": "SKC Aanwezigheid",
+        "examDate": "06/11/2014",
+        "grade": "sat."
+    }
+]
